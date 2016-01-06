@@ -1,0 +1,19 @@
+{
+    "name": "cedricdo/Network",
+    "authors": [
+        {
+            "name": "Cedric Dodion",
+            "email": "yondaime_sdz@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "phpseclib/phpseclib": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Network\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
